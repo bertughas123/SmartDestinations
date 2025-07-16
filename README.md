@@ -4,9 +4,6 @@
 
 SafeTrip is an intelligent travel planning application that analyzes infectious disease risks across US states using AI-powered forecasting. It helps travelers make informed decisions by comparing health risks and recommending safer destinations based on CDC epidemiological data.
 
-## 🚀 Live Demo
-**Try it now:** [https://safetrip.streamlit.app](https://safetrip.streamlit.app)
-
 ## ✨ Key Features
 
 ### 🎯 Smart Analysis
